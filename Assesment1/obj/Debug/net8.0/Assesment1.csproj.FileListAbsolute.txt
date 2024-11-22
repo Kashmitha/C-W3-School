@@ -1,0 +1,14 @@
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\bin\Debug\net8.0\Assesment1.exe
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\bin\Debug\net8.0\Assesment1.deps.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\bin\Debug\net8.0\Assesment1.runtimeconfig.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\bin\Debug\net8.0\Assesment1.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\bin\Debug\net8.0\Assesment1.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.AssemblyInfoInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.AssemblyInfo.cs
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.csproj.CoreCompileInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\refint\Assesment1.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\Assesment1.genruntimeconfig.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Assesment1\obj\Debug\net8.0\ref\Assesment1.dll

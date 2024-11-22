@@ -1,0 +1,14 @@
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\bin\Debug\net8.0\Inherince.exe
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\bin\Debug\net8.0\Inherince.deps.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\bin\Debug\net8.0\Inherince.runtimeconfig.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\bin\Debug\net8.0\Inherince.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\bin\Debug\net8.0\Inherince.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.AssemblyInfoInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.AssemblyInfo.cs
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.csproj.CoreCompileInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\refint\Inherince.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\Inherince.genruntimeconfig.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Inherince\obj\Debug\net8.0\ref\Inherince.dll

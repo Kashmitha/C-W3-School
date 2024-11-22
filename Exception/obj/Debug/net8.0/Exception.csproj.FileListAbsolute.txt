@@ -1,0 +1,14 @@
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\bin\Debug\net8.0\Exception.exe
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\bin\Debug\net8.0\Exception.deps.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\bin\Debug\net8.0\Exception.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\bin\Debug\net8.0\Exception.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\refint\Exception.dll
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.pdb
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\Users\kashm\OneDrive\Documents\C# W3 School\Exception\obj\Debug\net8.0\ref\Exception.dll
